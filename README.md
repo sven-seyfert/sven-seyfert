@@ -16,6 +16,10 @@
 
 <br>
 
+    Readable Code Matters 👨‍💻
+
+<br>
+
 ### 💻 Some of my coding interests
 
 ![autoit](https://img.shields.io/badge/AutoIt-lightskyblue?style=for-the-badge&labelColor=black&logo=autodesk&logoColor=lightskyblue)
@@ -29,8 +33,7 @@
 ![appium](https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&labelColor=black&logo=appium&logoColor=EE376D)
 ![markdown](https://img.shields.io/badge/Markdown-F7F4ED?style=for-the-badge&labelColor=black&logo=markdown&logoColor=F7F4ED)
 
-
-    Readable Code Matters 🦄
+    #languages #frameworks 🦄
 
 <br>
 
@@ -38,16 +41,15 @@
 
 <img height="185px" src="https://github-readme-stats-one-bice.vercel.app/api?username=sven-seyfert&count_private=true&theme=ayu-mirage&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=14400&disable_animations=true"> <img height="185px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sven-seyfert&layout=compact&langs_count=10&theme=ayu-mirage&card_width=369">
 
-    I did a lot more - but on GitLab 🦊
+    I did amd do a lot more - but on GitLab 🦊
 
 <br>
 
 ### 📫 Reach me out
 
-[![medium.com](https://img.shields.io/badge/medium.com-F7F4ED?style=for-the-badge&labelColor=black&logo=medium&logoColor=F7F4ED)](https://medium.com/@solvesmart)
-[![hashnode.com](https://img.shields.io/badge/hashnode.com-2962FF?style=for-the-badge&labelColor=black&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@solvesmart)
 [![dev.to](https://img.shields.io/badge/dev.to-777777?style=for-the-badge&labelColor=black&logo=devdotto&logoColor=777777)](https://dev.to/solvesmart)
-
+[![hashnode.com](https://img.shields.io/badge/hashnode.com-2962FF?style=for-the-badge&labelColor=black&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@solvesmart)
+[![medium.com](https://img.shields.io/badge/medium.com-F7F4ED?style=for-the-badge&labelColor=black&logo=medium&logoColor=F7F4ED)](https://medium.com/@solvesmart)
 
 [![youtube](https://img.shields.io/badge/Solve--Smart-D94D4A?style=for-the-badge&labelColor=black&logo=youtube&logoColor=D94D4A)](https://www.youtube.com/@solvesmart)
 [![youtube](https://img.shields.io/badge/Sven--Au3--Go-3D80B6?style=for-the-badge&labelColor=black&logo=youtube&logoColor=3D80B6)](https://www.youtube.com/@svenau3go)
