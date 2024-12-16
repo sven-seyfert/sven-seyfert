@@ -148,6 +148,7 @@
         "when": "!isAuxiliaryWindowFocusedContext"
     },
     {
+        // Error Lens
         "key": "ctrl+alt+e",
         "command": "errorLens.toggle"
     },
