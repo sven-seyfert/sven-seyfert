@@ -38,20 +38,622 @@
     "editor.stickyScroll.enabled": false,
     "editor.tabSize": 4,
     "editor.tokenColorCustomizations": {
-        "[One Dark Pro Darker]": {
-            "comments": {
-                "fontStyle": "italic",
-                // "foreground": "#2ea542"
+        "[*Light*]": {
+            "textMateRules": [
+                {
+                    "scope": "ref.matchtext",
+                    "settings": {
+                        "foreground": "#000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-olive",
+                    "settings": {
+                        "foreground": "#808000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_CMD",
+                    "settings": {
+                        "foreground": "#3d85c6"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_DIFF_CHANGED",
+                    "settings": {
+                        "foreground": "#f70000",
+                        "fontStyle": "bold"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_DIFF_ADDITION",
+                    "settings": {
+                        "foreground": "#6aa84f"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_DIFF_DELETION",
+                    "settings": {
+                        "foreground": "#ff8800"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_DIFF_MESSAGE",
+                    "settings": {
+                        "foreground": "#7F0000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-date",
+                    "settings": {
+                        "foreground": "#7a837f"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-debug",
+                    "settings": {
+                        "foreground": "#d6ae5d"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-process",
+                    "settings": {
+                        "foreground": "#a7a061",
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-process-id",
+                    "settings": {
+                        "foreground": "#d65d81",
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-process-file",
+                    "settings": {
+                        "foreground": "#81b2c7"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-process-pid",
+                    "settings": {
+                        "foreground": "#56bf00"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_BORLAND",
+                    "settings": {
+                        "foreground": "#B06000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_IFC",
+                    "settings": {
+                        "foreground": "#FF0000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_GCC_INCLUDED_FROM",
+                    "settings": {
+                        "foreground": "#800080"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_IFORT",
+                    "settings": {
+                        "foreground": "#FF0000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_PYTHON",
+                    "settings": {
+                        "foreground": "#FF0000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_PERL",
+                    "settings": {
+                        "foreground": "#FF0000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_NET",
+                    "settings": {
+                        "foreground": "#FF0000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_LUA",
+                    "settings": {
+                        "foreground": "#FF0000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_ELF",
+                    "settings": {
+                        "foreground": "#FF0000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_TIDY",
+                    "settings": {
+                        "foreground": "#FF0000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_JAVA_STACK",
+                    "settings": {
+                        "foreground": "#FF0000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_PHP",
+                    "settings": {
+                        "foreground": "#FF0000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_MS",
+                    "settings": {
+                        "foreground": "#808000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_GCC",
+                    "settings": {
+                        "foreground": "#800080"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_GCC_EXCERPT",
+                    "settings": {
+                        "foreground": "#B06000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_CTAG",
+                    "settings": {
+                        "foreground": "#FF00FF"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-EXIT",
+                    "settings": {
+                        "foreground": "#3d85c6"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-EXIT_ERROR",
+                    "settings": {
+                        "foreground": "#f70000",
+                        "fontStyle": "bold"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-EXIT_WARNING",
+                    "settings": {
+                        "foreground": "#ff8800"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_ABSF",
+                    "settings": {
+                        "foreground": "#FF0000"
+                    }
+                }
+            ]
+        },
+        "[*Dark*]": {
+            "textMateRules": [
+                {
+                    "scope": "ref.matchtext",
+                    "settings": {
+                        "foreground": "#fff"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-olive",
+                    "settings": {
+                        "foreground": "#808000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_CMD",
+                    "settings": {
+                        "foreground": "#3d85c6"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_DIFF_CHANGED",
+                    "settings": {
+                        "foreground": "#f70000",
+                        "fontStyle": "bold"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_DIFF_ADDITION",
+                    "settings": {
+                        "foreground": "#6aa84f"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_DIFF_DELETION",
+                    "settings": {
+                        "foreground": "#ff8800"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_DIFF_MESSAGE",
+                    "settings": {
+                        "foreground": "#7F0000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-date",
+                    "settings": {
+                        "foreground": "#7a837f"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-debug",
+                    "settings": {
+                        "foreground": "#d6ae5d"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-process",
+                    "settings": {
+                        "foreground": "#a7a061",
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-process-id",
+                    "settings": {
+                        "foreground": "#d65d81",
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-process-file",
+                    "settings": {
+                        "foreground": "#81b2c7"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-process-pid",
+                    "settings": {
+                        "foreground": "#56bf00"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_BORLAND",
+                    "settings": {
+                        "foreground": "#B06000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_IFC",
+                    "settings": {
+                        "foreground": "#FF0000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_GCC_INCLUDED_FROM",
+                    "settings": {
+                        "foreground": "#800080"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_IFORT",
+                    "settings": {
+                        "foreground": "#FF0000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_PYTHON",
+                    "settings": {
+                        "foreground": "#FF0000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_PERL",
+                    "settings": {
+                        "foreground": "#FF0000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_NET",
+                    "settings": {
+                        "foreground": "#FF0000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_LUA",
+                    "settings": {
+                        "foreground": "#FF0000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_ELF",
+                    "settings": {
+                        "foreground": "#FF0000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_TIDY",
+                    "settings": {
+                        "foreground": "#FF0000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_JAVA_STACK",
+                    "settings": {
+                        "foreground": "#FF0000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_PHP",
+                    "settings": {
+                        "foreground": "#FF0000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_MS",
+                    "settings": {
+                        "foreground": "#808000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_GCC",
+                    "settings": {
+                        "foreground": "#800080"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_GCC_EXCERPT",
+                    "settings": {
+                        "foreground": "#B06000"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_CTAG",
+                    "settings": {
+                        "foreground": "#FF00FF"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-EXIT",
+                    "settings": {
+                        "foreground": "#3d85c6"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-EXIT_ERROR",
+                    "settings": {
+                        "foreground": "#f70000",
+                        "fontStyle": "bold"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-EXIT_WARNING",
+                    "settings": {
+                        "foreground": "#ff8800"
+                    }
+                },
+                {
+                    "scope": "vscode-autoit-output-SCE_ERR_ABSF",
+                    "settings": {
+                        "foreground": "#FF0000"
+                    }
+                }
+            ]
+        },
+        "textMateRules": [
+            {
+                "scope": "vscode-autoit-output-olive",
+                "settings": {
+                    "foreground": "#808000"
+                }
             },
-            // "keywords": "#db7bb6",
-            // "variables": "#d86d78",
-        }
+            {
+                "scope": "vscode-autoit-output-SCE_ERR_CMD",
+                "settings": {
+                    "foreground": "#3d85c6"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-SCE_ERR_DIFF_CHANGED",
+                "settings": {
+                    "foreground": "#f70000",
+                    "fontStyle": "bold"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-SCE_ERR_DIFF_ADDITION",
+                "settings": {
+                    "foreground": "#6aa84f"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-SCE_ERR_DIFF_DELETION",
+                "settings": {
+                    "foreground": "#ff8800"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-SCE_ERR_DIFF_MESSAGE",
+                "settings": {
+                    "foreground": "#7F0000"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-date",
+                "settings": {
+                    "foreground": "#7a837f"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-debug",
+                "settings": {
+                    "foreground": "#d6ae5d"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-process",
+                "settings": {
+                    "foreground": "#a7a061",
+                    "fontStyle": "italic"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-process-id",
+                "settings": {
+                    "foreground": "#d65d81",
+                    "fontStyle": "italic"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-process-file",
+                "settings": {
+                    "foreground": "#81b2c7"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-process-pid",
+                "settings": {
+                    "foreground": "#56bf00"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-SCE_ERR_BORLAND",
+                "settings": {
+                    "foreground": "#B06000"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-SCE_ERR_IFC",
+                "settings": {
+                    "foreground": "#FF0000"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-SCE_ERR_GCC_INCLUDED_FROM",
+                "settings": {
+                    "foreground": "#800080"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-SCE_ERR_IFORT",
+                "settings": {
+                    "foreground": "#FF0000"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-SCE_ERR_PYTHON",
+                "settings": {
+                    "foreground": "#FF0000"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-SCE_ERR_PERL",
+                "settings": {
+                    "foreground": "#FF0000"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-SCE_ERR_NET",
+                "settings": {
+                    "foreground": "#FF0000"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-SCE_ERR_LUA",
+                "settings": {
+                    "foreground": "#FF0000"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-SCE_ERR_ELF",
+                "settings": {
+                    "foreground": "#FF0000"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-SCE_ERR_TIDY",
+                "settings": {
+                    "foreground": "#FF0000"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-SCE_ERR_JAVA_STACK",
+                "settings": {
+                    "foreground": "#FF0000"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-SCE_ERR_PHP",
+                "settings": {
+                    "foreground": "#FF0000"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-SCE_ERR_MS",
+                "settings": {
+                    "foreground": "#808000"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-SCE_ERR_GCC",
+                "settings": {
+                    "foreground": "#800080"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-SCE_ERR_GCC_EXCERPT",
+                "settings": {
+                    "foreground": "#B06000"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-SCE_ERR_CTAG",
+                "settings": {
+                    "foreground": "#FF00FF"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-EXIT",
+                "settings": {
+                    "foreground": "#3d85c6"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-EXIT_ERROR",
+                "settings": {
+                    "foreground": "#f70000",
+                    "fontStyle": "bold"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-EXIT_WARNING",
+                "settings": {
+                    "foreground": "#ff8800"
+                }
+            },
+            {
+                "scope": "vscode-autoit-output-SCE_ERR_ABSF",
+                "settings": {
+                    "foreground": "#FF0000"
+                }
+            }
+        ]
     },
     "editor.wordWrap": "off",
     "emmet.includeLanguages": {
         "njk": "html"
     },
-    "errorLens.enabled": false,
+    "errorLens.enabled": true,
     "explorer.compactFolders": false,
     "files.autoSave": "onFocusChange",
     "files.insertFinalNewline": true,
@@ -71,6 +673,8 @@
         "launchpad": false
     },
     "go.toolsManagement.autoUpdate": true,
+    "hexeditor.columnWidth": 32,
+    "hexeditor.inspectorType": "aside",
     "[html]": {
         "editor.defaultFormatter": "vscode.html-language-features"
     },
@@ -92,7 +696,8 @@
     "sequence.replaceSelection": true,
     "tabnine.experimentalAutoImports": true,
     "terminal.integrated.defaultProfile.windows": "Git Bash",
-    "terminal.integrated.fontSize": 17,
+    "terminal.integrated.fontSize": 22,
+    "terminal.integrated.fontFamily": "'JetBrainsMonoNL NFM'",
     "terminal.integrated.shellIntegration.enabled": false,
     "window.menuBarVisibility": "compact",
     "window.title": "VSCode ~ ${dirty}${activeEditorShort} ~ ${rootName} [${activeRepositoryBranchName}]",
