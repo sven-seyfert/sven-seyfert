@@ -1,6 +1,6 @@
 {
+    // "accessibility.voice.speechLanguage": "de-DE",
     "accessibility.voice.speechLanguage": "en-US",
-    // "accessibility.voice.speechLanguage": "de-DE"
     "accessibility.voice.speechTimeout": 3000,
     "autoit.consoleParams": "",
     "autoit.infoPath": "C:\\Program Files (x86)\\AutoIt3\\Au3Info_x64.exe",
@@ -37,7 +37,81 @@
     "editor.snippetSuggestions": "inline",
     "editor.stickyScroll.enabled": false,
     "editor.tabSize": 4,
+    "editor.wordWrap": "off",
+    "emmet.includeLanguages": {
+        "njk": "html"
+    },
+    "errorLens.enabled": true,
+    "explorer.compactFolders": false,
+    "files.autoSave": "onFocusChange",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "gitlens.currentLine.enabled": false,
+    "gitlens.views.scm.grouped.views": {
+        "commits": false,
+        "branches": true,
+        "remotes": true,
+        "stashes": true,
+        "tags": true,
+        "worktrees": true,
+        "contributors": true,
+        "repositories": false,
+        "searchAndCompare": false,
+        "launchpad": false
+    },
+    "go.toolsManagement.autoUpdate": true,
+    "hexeditor.columnWidth": 32,
+    "hexeditor.inspectorType": "aside",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.preferences.importModuleSpecifier": "relative",
+    "javascript.preferences.quoteStyle": "single",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[markdown]": {
+        "diffEditor.ignoreTrimWhitespace": false
+    },
+    "sequence.replaceSelection": true,
+    // "tabnine.experimentalAutoImports": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.fontFamily": "'JetBrainsMonoNL NFM'",
+    "terminal.integrated.fontSize": 18,
+    "terminal.integrated.shellIntegration.enabled": false,
+    "window.menuBarVisibility": "compact",
+    "window.title": "VSCode ~ ${dirty}${activeEditorShort} ~ ${rootName} [${activeRepositoryBranchName}]",
+    "workbench.colorCustomizations": {
+        "[One Dark Pro Darker]": {
+            // "editor.background": "#25272d",
+            "editorCursor.foreground": "#8CC265"
+        }
+    },
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "workbench.editor.empty.hint": "hidden",
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "none",
+    "workbench.tree.indent": 16,
+    "zenMode.showTabs": "single",
     "editor.tokenColorCustomizations": {
+        "[One Dark Pro Darker]": {
+            "comments": {
+                "fontStyle": "italic",
+                // "foreground": "#2ea542"
+            },
+            // "keywords": "#db7bb6",
+            // "variables": "#d86d78",
+        },
         "[*Light*]": {
             "textMateRules": [
                 {
@@ -648,71 +722,5 @@
                 }
             }
         ]
-    },
-    "editor.wordWrap": "off",
-    "emmet.includeLanguages": {
-        "njk": "html"
-    },
-    "errorLens.enabled": true,
-    "explorer.compactFolders": false,
-    "files.autoSave": "onFocusChange",
-    "files.insertFinalNewline": true,
-    "files.trimFinalNewlines": true,
-    "files.trimTrailingWhitespace": true,
-    "gitlens.currentLine.enabled": false,
-    "gitlens.views.scm.grouped.views": {
-        "commits": false,
-        "branches": true,
-        "remotes": true,
-        "stashes": true,
-        "tags": true,
-        "worktrees": true,
-        "contributors": true,
-        "repositories": false,
-        "searchAndCompare": false,
-        "launchpad": false
-    },
-    "go.toolsManagement.autoUpdate": true,
-    "hexeditor.columnWidth": 32,
-    "hexeditor.inspectorType": "aside",
-    "[html]": {
-        "editor.defaultFormatter": "vscode.html-language-features"
-    },
-    "[javascript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "javascript.preferences.importModuleSpecifier": "relative",
-    "javascript.preferences.quoteStyle": "single",
-    "javascript.updateImportsOnFileMove.enabled": "always",
-    "[json]": {
-        "editor.defaultFormatter": "vscode.json-language-features"
-    },
-    "[jsonc]": {
-        "editor.defaultFormatter": "vscode.json-language-features"
-    },
-    "[markdown]": {
-        "diffEditor.ignoreTrimWhitespace": false
-    },
-    "sequence.replaceSelection": true,
-    "tabnine.experimentalAutoImports": true,
-    "terminal.integrated.defaultProfile.windows": "Git Bash",
-    "terminal.integrated.fontSize": 18,
-    "terminal.integrated.fontFamily": "'JetBrainsMonoNL NFM'",
-    "terminal.integrated.shellIntegration.enabled": false,
-    "window.menuBarVisibility": "compact",
-    "window.title": "VSCode ~ ${dirty}${activeEditorShort} ~ ${rootName} [${activeRepositoryBranchName}]",
-    "workbench.colorCustomizations": {
-        "[One Dark Pro Darker]": {
-            // "editor.background": "#25272d",
-            "editorCursor.foreground": "#8CC265"
-        }
-    },
-    "workbench.colorTheme": "One Dark Pro Darker",
-    "workbench.editor.empty.hint": "hidden",
-    "workbench.editor.enablePreview": false,
-    "workbench.editor.highlightModifiedTabs": true,
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.startupEditor": "none",
-    "workbench.tree.indent": 16,
-    "zenMode.showTabs": "single"
+    }
 }
