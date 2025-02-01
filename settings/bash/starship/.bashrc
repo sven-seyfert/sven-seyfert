@@ -5,6 +5,7 @@
 alias c='clear'
 alias l='ls -l -a -h -s'
 alias show='code -r ~/.bashrc'
+alias config='code -r ~/.config/starship.toml'
 
 # npm
 alias n='ncu -i'
