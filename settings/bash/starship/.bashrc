@@ -17,13 +17,14 @@ alias eslint='npm run eslint .'
 # git
 alias gf='git fetch --all --prune'
 alias gb='git branch -a'
-alias gc='git checkout'
-alias gp='git pull'
+alias gpl='git pull'
+alias gph='git push'
 alias gs='git stash'
 alias gsp='git stash pop'
 alias gr='git stash && git checkout main && git pull origin main && git stash pop && git fetch --all --prune'
 
 # git commits
+alias gc='git commit -m '
 alias gcn='git commit -m "Changed: Node package update."'
 alias gcv='git commit -m "Documented: Project version bump."'
 alias gcc='git commit -m "Documented: Update CHANGELOG.md file."'
