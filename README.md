@@ -41,7 +41,7 @@
 
 <img height="185px" src="https://github-readme-stats-one-bice.vercel.app/api?username=sven-seyfert&count_private=true&theme=ayu-mirage&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=14400&disable_animations=true"> <img height="185px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sven-seyfert&layout=compact&langs_count=10&theme=ayu-mirage&card_width=369">
 
-    I did amd do a lot more - but on GitLab 🦊
+    I did and do a lot more - but on GitLab 🦊
 
 <br>
 
