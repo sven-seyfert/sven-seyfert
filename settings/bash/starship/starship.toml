@@ -1,9 +1,15 @@
 # This file is located at:
 # C:\Users\sven.seyfert\.config\starship.toml
+#
+# The ASCII art is made with:
+# https://www.asciiart.eu/text-to-ascii-art
 
 "$schema" = 'https://starship.rs/config-schema.json'
-
 format = """
+       ░█▀▀░█▀█░█▀▄░█▀▀░░░▀█▀░█▀▀░░░█▀█░█▀▄░▀█▀
+   ░░  ░█░░░█░█░█░█░█▀▀░░░░█░░▀▀█░░░█▀█░█▀▄░░█░  ░░
+       ░▀▀▀░▀▀▀░▀▀░░▀▀▀░░░▀▀▀░▀▀▀░░░▀░▀░▀░▀░░▀░
+
 [](color_orange)\
 $os\
 $username\
