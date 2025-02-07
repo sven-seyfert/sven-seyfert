@@ -64,7 +64,7 @@
     "hexeditor.columnWidth": 32,
     "hexeditor.inspectorType": "aside",
     "[html]": {
-        "editor.defaultFormatter": "vscode.html-language-features"
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"

@@ -143,7 +143,7 @@ format = '[[($all_status$ahead_behind )](fg:color_fg0 bg:color_aqua)]($style)'
 
 [package]
 style = "bg:color_teal"
-format = '[  $version ]($style)'
+format = '[  $version ]($style)'
 
 [nodejs]
 disabled = false

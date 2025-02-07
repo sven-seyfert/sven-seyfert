@@ -1,0 +1,92 @@
+{
+    "breadcrumbs.enabled": false,
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.codeLensFontFamily": "'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace",
+    // "editor.cursorBlinking": "solid",
+    // "editor.cursorStyle": "block",
+    "editor.folding": false,
+    "editor.fontFamily": "'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace",
+    "editor.fontSize": 18,
+    "editor.guides.bracketPairs": "active",
+    "editor.guides.bracketPairsHorizontal": "active",
+    "editor.insertSpaces": true,
+    "editor.lineHeight": 25,
+    // "editor.lineNumbers": "relative",
+    "editor.linkedEditing": true,
+    "editor.minimap.autohide": true,
+    "editor.minimap.showRegionSectionHeaders": false,
+    "editor.minimap.showSlider": "always",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.occurrencesHighlight": "singleFile",
+    "editor.renderLineHighlight": "line",
+    "editor.renderWhitespace": "none",
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "auto",
+    "editor.snippetSuggestions": "inline",
+    "editor.stickyScroll.enabled": false,
+    "editor.tabSize": 4,
+    "editor.wordWrap": "off",
+    "errorLens.enabled": true,
+    "explorer.compactFolders": false,
+    "files.autoSave": "onFocusChange",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "gitlens.currentLine.enabled": false,
+    "gitlens.views.scm.grouped.views": {
+        "commits": false,
+        "branches": true,
+        "remotes": true,
+        "stashes": true,
+        "tags": true,
+        "worktrees": true,
+        "contributors": true,
+        "repositories": false,
+        "searchAndCompare": false,
+        "launchpad": false
+    },
+    "hexeditor.columnWidth": 32,
+    "hexeditor.inspectorType": "aside",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.preferences.importModuleSpecifier": "relative",
+    "javascript.preferences.quoteStyle": "single",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[markdown]": {
+        "diffEditor.ignoreTrimWhitespace": false
+    },
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.fontFamily": "'JetBrainsMonoNL NFM'",
+    "terminal.integrated.fontSize": 18,
+    "terminal.integrated.shellIntegration.enabled": false,
+    "window.menuBarVisibility": "compact",
+    "window.title": "VSCode ~ ${dirty}${activeEditorShort} ~ ${rootName} [${activeRepositoryBranchName}]",
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "workbench.editor.empty.hint": "hidden",
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "none",
+    "workbench.tree.indent": 16,
+    "zenMode.showTabs": "single",
+    "editor.tokenColorCustomizations": {
+        "[One Dark Pro Darker]": {
+            "comments": {
+                "fontStyle": "italic"
+            }
+        }
+    }
+}
