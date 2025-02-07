@@ -28,6 +28,13 @@
     "editor.snippetSuggestions": "inline",
     "editor.stickyScroll.enabled": false,
     "editor.tabSize": 4,
+    "editor.tokenColorCustomizations": {
+        "[One Dark Pro Darker]": {
+            "comments": {
+                "fontStyle": "italic"
+            }
+        }
+    },
     "editor.wordWrap": "off",
     "errorLens.enabled": true,
     "explorer.compactFolders": false,
@@ -69,7 +76,7 @@
         "diffEditor.ignoreTrimWhitespace": false
     },
     "terminal.integrated.defaultProfile.windows": "Git Bash",
-    "terminal.integrated.fontFamily": "'JetBrainsMonoNL NFM'",
+    "terminal.integrated.fontFamily": "'JetBrainsMonoNL NFM', 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace",
     "terminal.integrated.fontSize": 18,
     "terminal.integrated.shellIntegration.enabled": false,
     "window.menuBarVisibility": "compact",
@@ -81,12 +88,5 @@
     "workbench.iconTheme": "material-icon-theme",
     "workbench.startupEditor": "none",
     "workbench.tree.indent": 16,
-    "zenMode.showTabs": "single",
-    "editor.tokenColorCustomizations": {
-        "[One Dark Pro Darker]": {
-            "comments": {
-                "fontStyle": "italic"
-            }
-        }
-    }
+    "zenMode.showTabs": "single"
 }

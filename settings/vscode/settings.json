@@ -84,7 +84,7 @@
     "sequence.replaceSelection": true,
     // "tabnine.experimentalAutoImports": true,
     "terminal.integrated.defaultProfile.windows": "Git Bash",
-    "terminal.integrated.fontFamily": "'JetBrainsMonoNL NFM'",
+    "terminal.integrated.fontFamily": "'JetBrainsMonoNL NFM', 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace",
     "terminal.integrated.fontSize": 18,
     "terminal.integrated.shellIntegration.enabled": false,
     "window.menuBarVisibility": "compact",
