@@ -23,7 +23,7 @@
     "editor.occurrencesHighlight": "singleFile",
     "editor.renderLineHighlight": "line",
     "editor.renderWhitespace": "none",
-    "editor.scrollbar.horizontal": "hidden",
+    // "editor.scrollbar.horizontal": "hidden",
     "editor.scrollbar.vertical": "auto",
     "editor.snippetSuggestions": "inline",
     "editor.stickyScroll.enabled": false,
