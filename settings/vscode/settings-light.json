@@ -88,5 +88,7 @@
     "workbench.iconTheme": "material-icon-theme",
     "workbench.startupEditor": "none",
     "workbench.tree.indent": 16,
+    "zenMode.fullScreen": false,
+    "zenMode.hideLineNumbers": false,
     "zenMode.showTabs": "single"
 }
