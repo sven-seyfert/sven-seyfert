@@ -22,7 +22,7 @@ alias gph='git push'
 alias gs='git stash'
 alias gsp='git stash pop'
 alias gr='git stash && git checkout main && git pull origin main && git stash pop && git fetch --all --prune'
-alias gl='git log --max-count=10 --pretty=format:"[%h] %s%d"'
+alias gl='git log --max-count=15 --pretty=format:"[%h] %s%d [%cn]"'
 
 # git commits
 alias gc='git commit -m '
