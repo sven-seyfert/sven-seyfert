@@ -27,7 +27,7 @@
 
 ##### Languages
 
-![autoit](https://img.shields.io/badge/AutoIt-lightskyblue?style=flat&labelColor=black&logo=autodesk&logoColor=lightskyblue)
+![autoit](https://img.shields.io/badge/AutoIt-lightskyblue?style=flat&labelColor=black&logo=autoit&logoColor=lightskyblue)
 ![golang](https://img.shields.io/badge/Go-07D9CA?style=flat&labelColor=black&logo=go&logoColor=07D9CA)
 ![javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=flat&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![html](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&labelColor=black&logo=html5&logoColor=E34F26)
@@ -42,8 +42,9 @@
 ![markdown](https://img.shields.io/badge/Markdown-F7F4ED?style=flat&labelColor=black&logo=markdown&logoColor=F7F4ED)
 ![sqlite](https://img.shields.io/badge/SQLite-1572B6?style=flat&labelColor=black&logo=sqlite&logoColor=1572B6)
 
-##### Made with
+##### Driven by
 
+![vscode](https://img.shields.io/badge/VSCode-23A8F2?style=flat&labelColor=black&logo=ntfy&logoColor=23A8F2)
 ![git](https://img.shields.io/badge/Git-F05032?style=flat&labelColor=black&logo=git&logoColor=F05032)
 ![github](https://img.shields.io/badge/GitHub-682C88?style=flat&labelColor=black&logo=github&logoColor=682C88)
 ![gitlab](https://img.shields.io/badge/GitLab-F4680E?style=flat&labelColor=black&logo=github&logoColor=F4680E)
@@ -65,12 +66,12 @@
 [![dev.to](https://img.shields.io/badge/dev.to-777777?style=flat&labelColor=black&logo=devdotto&logoColor=777777)](https://dev.to/solvesmart)
 [![hashnode.com](https://img.shields.io/badge/hashnode.com-2962FF?style=flat&labelColor=black&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@solvesmart)
 [![medium.com](https://img.shields.io/badge/medium.com-F7F4ED?style=flat&labelColor=black&logo=medium&logoColor=F7F4ED)](https://medium.com/@solvesmart)
+[![discord](https://img.shields.io/badge/discord-6569B0?style=flat&labelColor=black&logo=discord&logoColor=6569B0)](https://discord.gg/5DWTpZK3QN)<br>
 [![youtube](https://img.shields.io/badge/solve--smart-D94D4A?style=flat&labelColor=black&logo=youtube&logoColor=D94D4A)](https://www.youtube.com/@solvesmart)
 [![youtube](https://img.shields.io/badge/sven--au3--go-3D80B6?style=flat&labelColor=black&logo=youtube&logoColor=3D80B6)](https://www.youtube.com/@svenau3go)
-[![discord](https://img.shields.io/badge/discord-6569B0?style=flat&labelColor=black&logo=discord&logoColor=6569B0)](https://discord.gg/5DWTpZK3QN)
-[![homepage](https://img.shields.io/badge/homepage-648293?style=flat&labelColor=black&logo=HTML5&logoColor=648293)](https://sven-seyfert.de)
-[![solve-smart](https://img.shields.io/badge/solve_smart_de-F0DB4F?style=flat&labelColor=black&logo=docsify&logoColor=F0DB4F)](https://solve-smart.de)
 [![x](https://img.shields.io/badge/sven__seyfert-1DA1F2?style=flat&labelColor=black&logo=x&logoColor=1DA1F2)](https://x.com/sven_seyfert)
+[![homepage](https://img.shields.io/badge/sven--seyfert.de-648293?style=flat&labelColor=black&logo=HTML5&logoColor=648293)](https://sven-seyfert.de)
+[![solve-smart](https://img.shields.io/badge/solve--smart.de-F0DB4F?style=flat&labelColor=black&logo=docsify&logoColor=F0DB4F)]()
 
     Feel free to ask me any question - I am grateful to help 🤝
 
