@@ -61,6 +61,14 @@
 
 <br>
 
+### 🗺 My publications
+
+[![publication-overview](https://github.com/user-attachments/assets/961a0783-b289-43c4-b931-d7f7a674ee62)](https://sven-seyfert.github.io/publication-overview/)
+
+    Some work of mine on the internet 🌐
+
+<br>
+
 ### 📫 Reach me out
 
 [![dev.to](https://img.shields.io/badge/dev.to-777777?style=flat&labelColor=black&logo=devdotto&logoColor=777777)](https://dev.to/solvesmart)
