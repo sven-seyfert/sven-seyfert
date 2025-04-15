@@ -63,7 +63,8 @@
 
 ### 🗺 My publications
 
-[![publication-overview](https://github.com/user-attachments/assets/961a0783-b289-43c4-b931-d7f7a674ee62)](https://sven-seyfert.github.io/publication-overview/)
+<!-- [![publication-overview](https://github.com/user-attachments/assets/961a0783-b289-43c4-b931-d7f7a674ee62)](https://sven-seyfert.github.io/publication-overview/) -->
+[![publication-overview](https://github.com/user-attachments/assets/d9d191ba-d0fe-4f03-8fd6-0c6424e08d54)](https://sven-seyfert.github.io/publication-overview/)
 
     Some work of mine on the internet 🌐
 
