@@ -32,7 +32,7 @@
     "editor.occurrencesHighlight": "singleFile",
     "editor.renderLineHighlight": "line",
     "editor.renderWhitespace": "none",
-    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.horizontal": "auto",
     "editor.scrollbar.vertical": "auto",
     "editor.snippetSuggestions": "inline",
     "editor.stickyScroll.enabled": false,
@@ -47,6 +47,13 @@
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "autoit": false
+    },
     "gitlens.currentLine.enabled": false,
     "gitlens.views.scm.grouped.views": {
         "commits": false,
