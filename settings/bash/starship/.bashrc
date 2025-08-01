@@ -24,6 +24,7 @@ alias gsp='git stash pop'
 alias gr='git stash && git checkout main && git pull origin main && git stash pop && git fetch --all --prune'
 alias gl='git log --max-count=30 --pretty=format:"%cd [%h] %s [%cn]%d (%H)" --date=format:"%Y-%m-%d %H:%M:%S"'
 alias gl2='git log --reverse --max-count=30 --pretty=format:"%cd [%h] %s [%cn]%d (%H)" --date=format:"%Y-%m-%d %H:%M:%S"'
+alias gd='git diff --word-diff=color'
 
 # git commits
 alias gc='git commit -m '

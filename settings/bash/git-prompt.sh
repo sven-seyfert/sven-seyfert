@@ -1,3 +1,6 @@
+# This file is located at:
+# C:\Program Files\Git\etc\profile.d\git-prompt.sh
+
 if test -f /etc/profile.d/git-sdk.sh
 then
 	TITLEPREFIX=SDK-${MSYSTEM#MINGW}
@@ -9,8 +12,8 @@ if test -f ~/.config/git/git-prompt.sh
 then
 	. ~/.config/git/git-prompt.sh
 else
-	PS1='\[\033]0;$TITLEPREFIX:$PWD\007\]'			    # window title
-	PS1="$PS1"'\n'									    # new line
+	PS1='\[\033]0;$TITLEPREFIX:$PWD\007\]'				# window title
+	PS1="$PS1"'\n'										# new line
 	PS1="$PS1"'\[\033[30;42m\]  \h  '					# host
 	PS1="$PS1"'\[\033[30;45m\]  solve-smart@coding  '	# custom username
 	PS1="$PS1"'\[\033[30;43m\]  \w  '					# branch
