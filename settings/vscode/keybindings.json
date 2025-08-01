@@ -161,5 +161,9 @@
         "key": "ctrl+k ctrl+r",
         "command": "-git.revertSelectedRanges",
         "when": "isInDiffEditor && !operationInProgress"
+    },
+    {
+        "key": "ctrl+r",
+        "command": "workbench.action.terminal.runSelectedText"
     }
 ]

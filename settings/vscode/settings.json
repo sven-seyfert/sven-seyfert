@@ -94,6 +94,9 @@
     "terminal.integrated.fontFamily": "'JetBrainsMonoNL NFM', 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace",
     "terminal.integrated.fontSize": 18,
     "terminal.integrated.shellIntegration.enabled": false,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
     "window.menuBarVisibility": "compact",
     "window.title": "VSCode ~ ${dirty}${activeEditorShort} ~ ${rootName} [${activeRepositoryBranchName}]",
     "workbench.colorCustomizations": {
