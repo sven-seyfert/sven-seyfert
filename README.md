@@ -55,7 +55,7 @@
 
 ### 📈 My GitHub stats
 
-<img height="175px" src="https://github-readme-stats-one-bice.vercel.app/api?username=sven-seyfert&count_private=true&theme=ayu-mirage&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=14400&disable_animations=true"> <img height="175px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sven-seyfert&layout=compact&langs_count=10&theme=ayu-mirage&card_width=369">
+<img height="175px" src="https://github-readme-stats-one-bice.vercel.app/api?username=sven-seyfert&cache_seconds=21600&count_private=true&disable_animations=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&theme=ayu-mirage"> <img height="175px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sven-seyfert&card_width=369&exclude_repo=Au3BrowserTabScroll,Au3GotoDefinition,Au3RenameEx,baileo-stundenplan,Livestream-Au3MonitorDim&langs_count=10&layout=compact&theme=ayu-mirage">
 
     I did and do a lot more - but on GitLab 🦊
 
