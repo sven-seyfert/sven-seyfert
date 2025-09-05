@@ -91,6 +91,5 @@
 
 ### ❤ Show your support
 
-
 - Follow me if you like my work. Give my projects a star or perhaps even [Sponsor](https://github.com/sven-seyfert/autoit-webdriver-boilerplate) them.
 - [More options](https://sven-seyfert.de/thanks/) to say "thanks".
