@@ -33,6 +33,8 @@
 ![html](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&labelColor=black&logo=html5&logoColor=E34F26)
 ![c#](https://img.shields.io/badge/C%23-512BD4?style=flat&labelColor=black&logo=.net&logoColor=512BD4)
 ![sql](https://img.shields.io/badge/SQL-1572B6?style=flat&labelColor=black&logo=sqlite&logoColor=1572B6)
+![bash/shell](https://img.shields.io/badge/Bash/Shell-008080?style=flat&labelColor=black&logo=linux&logoColor=008080)
+
 
 ##### Technologies / Frameworks
 
@@ -41,6 +43,7 @@
 ![appium](https://img.shields.io/badge/Appium-EE376D?style=flat&labelColor=black&logo=appium&logoColor=EE376D)
 ![markdown](https://img.shields.io/badge/Markdown-F7F4ED?style=flat&labelColor=black&logo=markdown&logoColor=F7F4ED)
 ![sqlite](https://img.shields.io/badge/SQLite-1572B6?style=flat&labelColor=black&logo=sqlite&logoColor=1572B6)
+![node.js](https://img.shields.io/badge/node.js-689d6a?style=flat&labelColor=black&logo=node.js&logoColor=689d6a)
 
 ##### Driven by
 
@@ -48,6 +51,7 @@
 ![git](https://img.shields.io/badge/Git-F05032?style=flat&labelColor=black&logo=git&logoColor=F05032)
 ![github](https://img.shields.io/badge/GitHub-682C88?style=flat&labelColor=black&logo=github&logoColor=682C88)
 ![gitlab](https://img.shields.io/badge/GitLab-F4680E?style=flat&labelColor=black&logo=github&logoColor=F4680E)
+![love](https://img.shields.io/badge/Love-CC2A36?style=flat&labelColor=black&logo=undertale&logoColor=CC2A36)
 
     Be smart, learn constantly and choose the right tool for the job 🦄
 
@@ -55,7 +59,10 @@
 
 ### 📈 My GitHub stats
 
-<img height="175px" src="https://github-readme-stats-one-bice.vercel.app/api?username=sven-seyfert&cache_seconds=21600&count_private=true&disable_animations=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&theme=ayu-mirage"> <img height="175px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sven-seyfert&card_width=369&exclude_repo=Au3BrowserTabScroll,Au3GotoDefinition,Au3RenameEx,baileo-stundenplan,Livestream-Au3MonitorDim&langs_count=10&layout=compact&theme=ayu-mirage">
+<img height="175px" src="https://github-readme-stats-one-bice.vercel.app/api?username=sven-seyfert&cache_seconds=21600&card_width=407&count_private=true&disable_animations=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&theme=ayu-mirage">
+<img height="175px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sven-seyfert&card_width=400exclude_repo=Au3BrowserTabScroll,Au3GotoDefinition,Au3RenameEx,baileo-stundenplan,Livestream-Au3MonitorDim&langs_count=10&layout=compact&theme=ayu-mirage">
+
+<br>
 
     I did and do a lot more - but on GitLab 🦊
 
