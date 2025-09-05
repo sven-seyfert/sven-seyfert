@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Sven-Seyfert/Sven-Seyfert/blob/main/media/favicon.ico" width="80" />
+    <img src="https://github.com/sven-seyfert/sven-seyfert/blob/main/assets/icons/favicon.ico" width="80" />
 </p>
 
 ## Hi there, I am Sven aka SOLVE-SMART
