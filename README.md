@@ -11,11 +11,11 @@
 
 ### ✨ About Me
 
-- 🔭 I am currently working on process and test automation projects (on UI and API level).<br>
-- 🌱 I am continuously learning more about Go (golang) and a proper usage of the language.<br>
-- 👯 I am open to collaborate and contribute on projects in AutoIt, Go (golang) and web based technologies (JS / node.js).<br>
+- 🛠️ I am currently working on process and test automation projects (on UI and API level).<br>
+- 📚 I am continuously learning more about Go (golang) and a proper usage of the language.<br>
+- 🤝 I am open to collaborate and contribute on projects in AutoIt, Go (golang) and web based technologies (JS / node.js).<br>
 - 💬 Ask me about AutoIt! I worked with this language since many years.<br>
-- 👾 Fun fact: I built my wooden house partly on my own.<br>
+- 🏡 Fun fact: I built my wooden house partly on my own.<br>
 
 <br>
 
