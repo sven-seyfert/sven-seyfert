@@ -27,31 +27,31 @@
 
 ##### Languages
 
-![autoit](https://img.shields.io/badge/AutoIt-lightskyblue?style=flat&labelColor=black&logo=autoit&logoColor=lightskyblue)
-![golang](https://img.shields.io/badge/Go-07D9CA?style=flat&labelColor=black&logo=go&logoColor=07D9CA)
-![javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=flat&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![html](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&labelColor=black&logo=html5&logoColor=E34F26)
-![c#](https://img.shields.io/badge/C%23-512BD4?style=flat&labelColor=black&logo=.net&logoColor=512BD4)
-![sql](https://img.shields.io/badge/SQL-1572B6?style=flat&labelColor=black&logo=sqlite&logoColor=1572B6)
-![bash/shell](https://img.shields.io/badge/Bash/Shell-008080?style=flat&labelColor=black&logo=linux&logoColor=008080)
+[![autoit](https://img.shields.io/badge/AutoIt-lightskyblue?style=flat&labelColor=black&logo=autoit&logoColor=lightskyblue)]()
+[![golang](https://img.shields.io/badge/Go-07D9CA?style=flat&labelColor=black&logo=go&logoColor=07D9CA)]()
+[![javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=flat&labelColor=black&logo=javascript&logoColor=F0DB4F)]()
+[![html](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&labelColor=black&logo=html5&logoColor=E34F26)]()
+[![c#](https://img.shields.io/badge/C%23-512BD4?style=flat&labelColor=black&logo=.net&logoColor=512BD4)]()
+[![sql](https://img.shields.io/badge/SQL-1572B6?style=flat&labelColor=black&logo=sqlite&logoColor=1572B6)]()
+[![bash/shell](https://img.shields.io/badge/Bash/Shell-008080?style=flat&labelColor=black&logo=linux&logoColor=008080)]()
 
 
 ##### Technologies / Frameworks
 
-![bdd](https://img.shields.io/badge/Cucumber-23D96C?style=flat&labelColor=black&logo=cucumber&logoColor=23D96C)
-![webdriverio](https://img.shields.io/badge/WebdriverIO-EA5906?style=flat&labelColor=black&logo=webdriverio&logoColor=EA5906)
-![appium](https://img.shields.io/badge/Appium-EE376D?style=flat&labelColor=black&logo=appium&logoColor=EE376D)
-![markdown](https://img.shields.io/badge/Markdown-F7F4ED?style=flat&labelColor=black&logo=markdown&logoColor=F7F4ED)
-![sqlite](https://img.shields.io/badge/SQLite-1572B6?style=flat&labelColor=black&logo=sqlite&logoColor=1572B6)
-![node.js](https://img.shields.io/badge/node.js-689d6a?style=flat&labelColor=black&logo=node.js&logoColor=689d6a)
+[![bdd](https://img.shields.io/badge/Cucumber-23D96C?style=flat&labelColor=black&logo=cucumber&logoColor=23D96C)]()
+[![webdriverio](https://img.shields.io/badge/WebdriverIO-EA5906?style=flat&labelColor=black&logo=webdriverio&logoColor=EA5906)]()
+[![appium](https://img.shields.io/badge/Appium-EE376D?style=flat&labelColor=black&logo=appium&logoColor=EE376D)]()
+[![markdown](https://img.shields.io/badge/Markdown-F7F4ED?style=flat&labelColor=black&logo=markdown&logoColor=F7F4ED)]()
+[![sqlite](https://img.shields.io/badge/SQLite-1572B6?style=flat&labelColor=black&logo=sqlite&logoColor=1572B6)]()
+[![node.js](https://img.shields.io/badge/node.js-689d6a?style=flat&labelColor=black&logo=node.js&logoColor=689d6a)]()
 
 ##### Driven by
 
-![vscode](https://img.shields.io/badge/VSCode-23A8F2?style=flat&labelColor=black&logo=ntfy&logoColor=23A8F2)
-![git](https://img.shields.io/badge/Git-F05032?style=flat&labelColor=black&logo=git&logoColor=F05032)
-![github](https://img.shields.io/badge/GitHub-682C88?style=flat&labelColor=black&logo=github&logoColor=682C88)
-![gitlab](https://img.shields.io/badge/GitLab-F4680E?style=flat&labelColor=black&logo=github&logoColor=F4680E)
-![love](https://img.shields.io/badge/Love-CC2A36?style=flat&labelColor=black&logo=undertale&logoColor=CC2A36)
+[![vscode](https://img.shields.io/badge/VSCode-23A8F2?style=flat&labelColor=black&logo=ntfy&logoColor=23A8F2)]()
+[![git](https://img.shields.io/badge/Git-F05032?style=flat&labelColor=black&logo=git&logoColor=F05032)]()
+[![github](https://img.shields.io/badge/GitHub-682C88?style=flat&labelColor=black&logo=github&logoColor=682C88)]()
+[![gitlab](https://img.shields.io/badge/GitLab-F4680E?style=flat&labelColor=black&logo=github&logoColor=F4680E)]()
+[![love](https://img.shields.io/badge/Love-CC2A36?style=flat&labelColor=black&logo=undertale&logoColor=CC2A36)]()
 
     Be smart, learn constantly and choose the right tool for the job 🦄
 
@@ -59,10 +59,7 @@
 
 ### 📈 My GitHub stats
 
-<img height="175px" src="https://github-readme-stats-one-bice.vercel.app/api?username=sven-seyfert&cache_seconds=21600&card_width=407&count_private=true&disable_animations=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&theme=ayu-mirage">
-<img height="175px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sven-seyfert&card_width=400exclude_repo=Au3BrowserTabScroll,Au3GotoDefinition,Au3RenameEx,baileo-stundenplan,Livestream-Au3MonitorDim&langs_count=10&layout=compact&theme=ayu-mirage">
-
-<br>
+<img height="175px" src="https://github-readme-stats-one-bice.vercel.app/api?username=sven-seyfert&cache_seconds=21600&card_width=407&count_private=true&disable_animations=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&theme=ayu-mirage">&nbsp;&nbsp;&nbsp;<img height="175px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sven-seyfert&card_width=400exclude_repo=Au3BrowserTabScroll,Au3GotoDefinition,Au3RenameEx,baileo-stundenplan,Livestream-Au3MonitorDim&langs_count=10&layout=compact&theme=ayu-mirage">
 
     I did and do a lot more - but on GitLab 🦊
 
@@ -70,7 +67,6 @@
 
 ### 🗺 My publications
 
-<!-- [![publication-overview](https://github.com/user-attachments/assets/961a0783-b289-43c4-b931-d7f7a674ee62)](https://sven-seyfert.github.io/publication-overview/) -->
 [![publication-overview](https://github.com/user-attachments/assets/d9d191ba-d0fe-4f03-8fd6-0c6424e08d54)](https://sven-seyfert.github.io/publication-overview/)
 
     Some work of mine on the internet 🌐
@@ -93,7 +89,7 @@
 
 <br>
 
-### ⭐ Show your support
+### ❤ Show your support
 
 
 - Follow me if you like my work. Give my projects a star or perhaps even [Sponsor](https://github.com/sven-seyfert/autoit-webdriver-boilerplate) them.
