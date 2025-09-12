@@ -33,17 +33,19 @@
 [![html](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&labelColor=black&logo=html5&logoColor=E34F26)]()
 [![c#](https://img.shields.io/badge/C%23-512BD4?style=flat&labelColor=black&logo=.net&logoColor=512BD4)]()
 [![sql](https://img.shields.io/badge/SQL-1572B6?style=flat&labelColor=black&logo=sqlite&logoColor=1572B6)]()
-[![bash/shell](https://img.shields.io/badge/Bash/Shell-008080?style=flat&labelColor=black&logo=linux&logoColor=008080)]()
+[![bash/shell](https://img.shields.io/badge/Bash/Shell-008080?style=flat&labelColor=black&logo=gnubash&logoColor=008080)]()
 
 
-##### Technologies / Frameworks
+##### Technologies / Frameworks / Tools
 
 [![bdd](https://img.shields.io/badge/Cucumber-23D96C?style=flat&labelColor=black&logo=cucumber&logoColor=23D96C)]()
 [![webdriverio](https://img.shields.io/badge/WebdriverIO-EA5906?style=flat&labelColor=black&logo=webdriverio&logoColor=EA5906)]()
 [![appium](https://img.shields.io/badge/Appium-EE376D?style=flat&labelColor=black&logo=appium&logoColor=EE376D)]()
 [![markdown](https://img.shields.io/badge/Markdown-F7F4ED?style=flat&labelColor=black&logo=markdown&logoColor=F7F4ED)]()
 [![sqlite](https://img.shields.io/badge/SQLite-1572B6?style=flat&labelColor=black&logo=sqlite&logoColor=1572B6)]()
-[![node.js](https://img.shields.io/badge/node.js-689d6a?style=flat&labelColor=black&logo=node.js&logoColor=689d6a)]()
+[![node.js](https://img.shields.io/badge/Node.js-689d6a?style=flat&labelColor=black&logo=node.js&logoColor=689d6a)]()
+[![curl](https://img.shields.io/badge/curl-073551?style=flat&labelColor=black&logo=curl&logoColor=073551)]()
+[![jq](https://img.shields.io/badge/jq-444444?style=flat&labelColor=black&logo=xdadevelopers&logoColor=444444)]()
 
 ##### Driven by
 
@@ -51,6 +53,7 @@
 [![git](https://img.shields.io/badge/Git-F05032?style=flat&labelColor=black&logo=git&logoColor=F05032)]()
 [![github](https://img.shields.io/badge/GitHub-682C88?style=flat&labelColor=black&logo=github&logoColor=682C88)]()
 [![gitlab](https://img.shields.io/badge/GitLab-F4680E?style=flat&labelColor=black&logo=github&logoColor=F4680E)]()
+[![automation](https://img.shields.io/badge/Automation-F0DB4F?style=flat&labelColor=black&logo=battledotnet&logoColor=F0DB4F)]()
 [![love](https://img.shields.io/badge/Love-CC2A36?style=flat&labelColor=black&logo=undertale&logoColor=CC2A36)]()
 
     Be smart, learn constantly and choose the right tool for the job 🦄
