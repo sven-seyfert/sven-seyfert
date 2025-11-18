@@ -8,11 +8,19 @@
     "autoit.UDFCreator": "Sven Seyfert",
     "breadcrumbs.enabled": false,
     "codesnap.containerPadding": "0em",
+    "codesnap.realLineNumbers": true,
+    "codesnap.showWindowTitle": true,
     "codesnap.transparentBackground": true,
     "[css]": {
         "editor.defaultFormatter": "vscode.css-language-features"
     },
-    "diffEditor.ignoreTrimWhitespace": false,
+    "diffEditor.ignoreTrimWhitespace": true,
+    "[dockercompose]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2,
+        "editor.autoIndent": "advanced",
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
     "editor.codeLensFontFamily": "'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace",
     "editor.cursorBlinking": "solid",
     "editor.cursorStyle": "block",
@@ -25,7 +33,7 @@
     "editor.lineHeight": 25,
     // "editor.lineNumbers": "relative",
     "editor.linkedEditing": true,
-    "editor.minimap.autohide": true,
+    "editor.minimap.autohide": "mouseover",
     "editor.minimap.showRegionSectionHeaders": false,
     "editor.minimap.showSlider": "always",
     "editor.multiCursorModifier": "ctrlCmd",
@@ -47,13 +55,17 @@
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
+    "[github-actions-workflow]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
     "github.copilot.enable": {
         "*": true,
         "plaintext": false,
         "markdown": false,
         "scminput": false,
-        "autoit": false
+        "autoit": true
     },
+    "github.copilot.nextEditSuggestions.enabled": true,
     "gitlens.currentLine.enabled": false,
     "gitlens.views.scm.grouped.views": {
         "commits": false,
@@ -110,6 +122,7 @@
     "workbench.editor.enablePreview": false,
     "workbench.editor.highlightModifiedTabs": true,
     "workbench.iconTheme": "material-icon-theme",
+    "workbench.secondarySideBar.defaultVisibility": "visible",
     "workbench.startupEditor": "none",
     "workbench.tree.indent": 16,
     "zenMode.fullScreen": false,

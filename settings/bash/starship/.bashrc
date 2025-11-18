@@ -25,13 +25,16 @@ alias gr='git stash && git checkout main && git pull origin main && git stash po
 alias gl='git log --max-count=30 --pretty=format:"%cd [%h] %s [%cn]%d (%H)" --date=format:"%Y-%m-%d %H:%M:%S"'
 alias gl2='git log --reverse --max-count=30 --pretty=format:"%cd [%h] %s [%cn]%d (%H)" --date=format:"%Y-%m-%d %H:%M:%S"'
 alias gd='git diff --word-diff=color'
+alias gupdate='git update-git-for-windows'
 
 # git commits
 alias gc='git commit -m '
 alias gcn='git commit -m "Changed: Node package update."'
-alias gcv='git commit -m "Documented: Project version bump."'
-alias gcc='git commit -m "Documented: Update CHANGELOG.md file."'
 alias gcr='git commit -m "Documented: Update README.md file."'
+alias gcv='git commit -m "Documented: Project version bump."'
+alias gcv2='git commit -m "Changed: Program version bump."'
+alias gcc='git commit -m "Documented: Update CHANGELOG.md file."'
+alias gccover='git commit -m "Documented: Update code coverage."'
 
 # open
 alias devspeedbar='cd ./au3/DevSpeedBar/build && ./DevSpeedBar.exe'
@@ -40,7 +43,7 @@ alias gitlab='explorer "C:\Store\Repositories\GitLab"'
 alias open='explorer .'
 
 # vscode
-alias code='code -r .'
+alias here='code -r .'
 
 # ART
 echo '       ░█▀▀░█▀█░█▀▄░█▀▀░░░▀█▀░█▀▀░░░█▀█░█▀▄░▀█▀░       '

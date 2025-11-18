@@ -19,8 +19,10 @@ github.copilot-chat
 golang.go
 ibm.output-colorizer
 kisstkondoros.vscode-gutter-preview
+kortina.vscode-markdown-notes
 mechatroner.rainbow-csv
 ms-vscode.hexeditor
+ms-vscode.powershell
 ms-vscode.vscode-speech
 ms-vscode.vscode-speech-language-pack-de-de
 naumovs.color-highlight
