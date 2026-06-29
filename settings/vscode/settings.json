@@ -4,9 +4,14 @@
     "accessibility.voice.speechTimeout": 3000,
     "autoit.consoleParams": "",
     "autoit.infoPath": "C:\\Program Files (x86)\\AutoIt3\\Au3Info_x64.exe",
+    "autoit.maps.enableIntelligence": true,
+    "autoit.multiOutput": false,
     "autoit.outputCodePage": "windows1250",
+    "autoit.showRegionsInGoToSymbol": false,
+    "autoit.symbolMaxLines": 5000,
     "autoit.UDFCreator": "Sven Seyfert",
     "breadcrumbs.enabled": false,
+    "chat.viewSessions.orientation": "stacked",
     "codesnap.containerPadding": "0em",
     "codesnap.realLineNumbers": true,
     "codesnap.showWindowTitle": true,
@@ -14,7 +19,10 @@
     "[css]": {
         "editor.defaultFormatter": "vscode.css-language-features"
     },
-    "diffEditor.ignoreTrimWhitespace": true,
+    "[csv (pipe)]": {
+        "editor.inlayHints.maximumLength": 0
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
     "[dockercompose]": {
         "editor.insertSpaces": true,
         "editor.tabSize": 2,
@@ -51,6 +59,7 @@
     },
     "errorLens.enabled": true,
     "explorer.compactFolders": false,
+    "extensions.autoUpdate": "off",
     "files.autoSave": "onFocusChange",
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
@@ -63,7 +72,8 @@
         "plaintext": false,
         "markdown": false,
         "scminput": false,
-        "autoit": true
+        "autoit": true,
+        "powershell": true
     },
     "github.copilot.nextEditSuggestions.enabled": true,
     "gitlens.currentLine.enabled": false,
@@ -101,19 +111,20 @@
         "diffEditor.ignoreTrimWhitespace": false
     },
     "sequence.replaceSelection": true,
-    // "tabnine.experimentalAutoImports": true,
     "terminal.integrated.defaultProfile.windows": "Git Bash",
     "terminal.integrated.fontFamily": "'JetBrainsMonoNL NFM', 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace",
     "terminal.integrated.fontSize": 18,
+    "terminal.integrated.gpuAcceleration": "on",
     "terminal.integrated.shellIntegration.enabled": false,
     "[typescript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+    "window.autoDetectColorScheme": false,
     "window.menuBarVisibility": "compact",
     "window.title": "VSCode ~ ${dirty}${activeEditorShort} ~ ${rootName} [${activeRepositoryBranchName}]",
+    "window.systemColorTheme": "dark",
     "workbench.colorCustomizations": {
         "[One Dark Pro Darker]": {
-            // "editor.background": "#25272d",
             "editorCursor.foreground": "#8CC265"
         }
     },
@@ -122,7 +133,7 @@
     "workbench.editor.enablePreview": false,
     "workbench.editor.highlightModifiedTabs": true,
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.secondarySideBar.defaultVisibility": "visible",
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
     "workbench.startupEditor": "none",
     "workbench.tree.indent": 16,
     "zenMode.fullScreen": false,

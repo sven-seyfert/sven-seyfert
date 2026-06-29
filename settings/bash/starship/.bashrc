@@ -18,12 +18,13 @@ alias nl='npm list -g --depth=0'
 alias gf='git fetch --all --prune'
 alias gpl='git pull'
 alias gpl2='git stash && git pull && git stash pop'
+alias ga='git add .'
 alias gph='git push'
 alias gs='git stash'
 alias gsp='git stash pop'
 alias gr='git stash && git checkout main && git pull origin main && git stash pop && git fetch --all --prune'
-alias gl='git log --max-count=30 --pretty=format:"%cd [%h] %s [%cn]%d (%H)" --date=format:"%Y-%m-%d %H:%M:%S"'
-alias gl2='git log --reverse --max-count=30 --pretty=format:"%cd [%h] %s [%cn]%d (%H)" --date=format:"%Y-%m-%d %H:%M:%S"'
+alias gl='git log --max-count=35 --pretty=format:"%C(red)%cd %C(yellow)%h %C(green)%s %C(magenta)%cn%C(red)%d %C(cyan)%H" --date=format:"%Y-%m-%d %H:%M:%S"'
+alias gl2='git log --reverse --max-count=35 --pretty=format:"%C(red)%cd %C(yellow)%h %C(green)%s %C(magenta)%cn%C(red)%d %C(cyan)%H" --date=format:"%Y-%m-%d %H:%M:%S"'
 alias gd='git diff --word-diff=color'
 alias gupdate='git update-git-for-windows'
 
@@ -44,6 +45,9 @@ alias open='explorer .'
 
 # vscode
 alias here='code -r .'
+
+# cloc
+alias cloc='/c/Store/Tools/Portable/cloc-2.08/cloc.exe '
 
 # ART
 echo '       ░█▀▀░█▀█░█▀▄░█▀▀░░░▀█▀░█▀▀░░░█▀█░█▀▄░▀█▀░       '
