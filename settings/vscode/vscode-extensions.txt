@@ -14,13 +14,12 @@ donjayamanne.githistory
 eamodio.gitlens
 esbenp.prettier-vscode
 gera2ld.markmap-vscode
-github.copilot
-github.copilot-chat
 golang.go
 ibm.output-colorizer
 kisstkondoros.vscode-gutter-preview
 kortina.vscode-markdown-notes
 mechatroner.rainbow-csv
+moshfeu.compare-folders
 ms-vscode.hexeditor
 ms-vscode.powershell
 ms-vscode.vscode-speech
@@ -31,6 +30,7 @@ redhat.vscode-yaml
 richie5um2.vscode-sort-json
 ritwickdey.liveserver
 sven-seyfert.autoit-snippets
+tomoki1207.pdf
 tomoki1207.vscode-input-sequence
 usernamehw.errorlens
 yzane.markdown-pdf

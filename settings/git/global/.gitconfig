@@ -1,0 +1,13 @@
+[core]
+	editor = \"C:\\Users\\sven.seyfert\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+	autocrlf = true
+[http]
+	sslBackend = schannel
+	postBuffer = 157286400
+[user]
+	name = Sven Seyfert
+	email = sven.seyfert@big-direkt.de
+[credential]
+	helper = wincred
+[init]
+	defaultbranch = main

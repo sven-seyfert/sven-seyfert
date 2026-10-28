@@ -1,3 +1,3 @@
-cursor size         => 2 (default is 1)
+cursor size         => 3 (default is 1)
 cursor type         => "custom" (default is "white")
 custom cursor color => #D86D78

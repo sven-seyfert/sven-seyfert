@@ -1,7 +1,10 @@
 {
     // "accessibility.voice.speechLanguage": "de-DE",
-    "accessibility.voice.speechLanguage": "en-US",
-    "accessibility.voice.speechTimeout": 3000,
+    "accessibility.voice.speechLanguage": "de-DE",
+    "accessibility.voice.speechTimeout": 2500,
+    "agents.voice.enabled": true,
+    "agents.voice.language": "de",
+    "agents.voice.turn.silenceMs": 2500,
     "autoit.consoleParams": "",
     "autoit.infoPath": "C:\\Program Files (x86)\\AutoIt3\\Au3Info_x64.exe",
     "autoit.maps.enableIntelligence": true,
@@ -11,10 +14,8 @@
     "autoit.symbolMaxLines": 5000,
     "autoit.UDFCreator": "Sven Seyfert",
     "breadcrumbs.enabled": false,
-    "chat.viewSessions.orientation": "stacked",
-    "codesnap.containerPadding": "0em",
+    "codesnap.containerPadding": "1em",
     "codesnap.realLineNumbers": true,
-    "codesnap.showWindowTitle": true,
     "codesnap.transparentBackground": true,
     "[css]": {
         "editor.defaultFormatter": "vscode.css-language-features"
@@ -22,7 +23,8 @@
     "[csv (pipe)]": {
         "editor.inlayHints.maximumLength": 0
     },
-    "diffEditor.ignoreTrimWhitespace": false,
+    "diffEditor.ignoreTrimWhitespace": true,
+    "diffEditor.renderSideBySide": true,
     "[dockercompose]": {
         "editor.insertSpaces": true,
         "editor.tabSize": 2,
@@ -85,9 +87,10 @@
         "tags": true,
         "worktrees": true,
         "contributors": true,
+        "fileHistory": false,
         "repositories": false,
         "searchAndCompare": false,
-        "launchpad": false
+        "launchpad": true
     },
     "go.toolsManagement.autoUpdate": true,
     "hexeditor.columnWidth": 32,
@@ -98,9 +101,9 @@
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "javascript.preferences.importModuleSpecifier": "relative",
-    "javascript.preferences.quoteStyle": "single",
-    "javascript.updateImportsOnFileMove.enabled": "always",
+    "js/ts.preferences.importModuleSpecifier": "relative",
+    "js/ts.preferences.quoteStyle": "single",
+    "js/ts.updateImportsOnFileMove.enabled": "always",
     "[json]": {
         "editor.defaultFormatter": "vscode.json-language-features"
     },
@@ -121,8 +124,9 @@
     },
     "window.autoDetectColorScheme": false,
     "window.menuBarVisibility": "compact",
-    "window.title": "VSCode ~ ${dirty}${activeEditorShort} ~ ${rootName} [${activeRepositoryBranchName}]",
     "window.systemColorTheme": "dark",
+    "window.title": "VSCode${separator}${rootName}${separator}${activeEditorShort}${separator}${dirty}",
+    "window.titleSeparator": " | ",
     "workbench.colorCustomizations": {
         "[One Dark Pro Darker]": {
             "editorCursor.foreground": "#8CC265"
@@ -132,6 +136,7 @@
     "workbench.editor.empty.hint": "hidden",
     "workbench.editor.enablePreview": false,
     "workbench.editor.highlightModifiedTabs": true,
+    "workbench.experimental.modernUI": false,
     "workbench.iconTheme": "material-icon-theme",
     "workbench.secondarySideBar.defaultVisibility": "hidden",
     "workbench.startupEditor": "none",

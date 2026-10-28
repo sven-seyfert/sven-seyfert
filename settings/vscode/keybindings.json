@@ -153,17 +153,45 @@
         "command": "errorLens.toggle"
     },
     {
+        // git revert
         "key": "alt+z",
         "command": "git.revertSelectedRanges",
         "when": "isInDiffEditor && !operationInProgress"
     },
     {
+        // git revert orig
         "key": "ctrl+k ctrl+r",
         "command": "-git.revertSelectedRanges",
         "when": "isInDiffEditor && !operationInProgress"
     },
     {
+        // Run selected text in terminal
         "key": "ctrl+r",
         "command": "workbench.action.terminal.runSelectedText"
+    },
+    {
+        // toggle maximized chat
+        "key": "alt+7",
+        "command": "workbench.action.toggleMaximizedAuxiliaryBar"
+    },
+    {
+        "key": "ctrl+shift+space",
+        "command": "agentsVoice.pushToTalk",
+        "when": "agentsVoiceEntitled && agentsVoiceWidgetFocused && chatIsEnabled && config.agents.voice.enabled && !inputFocus"
+    },
+    {
+        "key": "ctrl+shift+space",
+        "command": "-agentsVoice.pushToTalk",
+        "when": "agentsVoiceEntitled && agentsVoiceWidgetFocused && chatIsEnabled && config.agents.voice.enabled && !inputFocus"
+    },
+    {
+        "key": "ctrl+shift+space",
+        "command": "agentsVoice.startVoiceInChat",
+        "when": "agentsVoiceEntitled && chatIsEnabled && config.agents.voice.enabled && inChatInput && !config.agents.voice.showButton || agentsVoiceEntitled && chatIsEnabled && config.agents.voice.enabled && inChatInput && !agentsVoiceConnected && !chatSpeechToTextConfigured || agentsVoiceEntitled && chatIsEnabled && config.agents.voice.enabled && inChatInput && !agentsVoiceConnected && !config.agents.voice.showButton || agentsVoiceEntitled && chatIsEnabled && config.agents.voice.enabled && inChatInput && !agentsVoiceConnected && !config.dictation.showButton || agentsVoiceEntitled && chatIsEnabled && config.agents.voice.enabled && inChatInput && !chatSpeechToTextConfigured && !config.agents.voice.showButton || agentsVoiceEntitled && chatIsEnabled && config.agents.voice.enabled && inChatInput && !config.agents.voice.showButton && !config.dictation.showButton"
+    },
+    {
+        "key": "ctrl+shift+space",
+        "command": "-agentsVoice.startVoiceInChat",
+        "when": "agentsVoiceEntitled && chatIsEnabled && config.agents.voice.enabled && inChatInput && !config.agents.voice.showButton || agentsVoiceEntitled && chatIsEnabled && config.agents.voice.enabled && inChatInput && !agentsVoiceConnected && !chatSpeechToTextConfigured || agentsVoiceEntitled && chatIsEnabled && config.agents.voice.enabled && inChatInput && !agentsVoiceConnected && !config.agents.voice.showButton || agentsVoiceEntitled && chatIsEnabled && config.agents.voice.enabled && inChatInput && !agentsVoiceConnected && !config.dictation.showButton || agentsVoiceEntitled && chatIsEnabled && config.agents.voice.enabled && inChatInput && !chatSpeechToTextConfigured && !config.agents.voice.showButton || agentsVoiceEntitled && chatIsEnabled && config.agents.voice.enabled && inChatInput && !config.agents.voice.showButton && !config.dictation.showButton"
     }
 ]
